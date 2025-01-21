@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FriendRecommendation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FriendRecommendation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
